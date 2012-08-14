@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mnemosyne core_version="1" >
+
+<category active="1">
+ <name></name>
+</category>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>朝</Q>
+ <A>あさ　(morning)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>朝食</Q>
+ <A>ちゅうしょく (breakfast)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>朝日</Q>
+ <A>あさひ (the morning sun)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>昼</Q>
+ <A>ひる (noon, midday)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>昼食</Q>
+ <A>ちゅうしょく (lunch)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>昼寝</Q>
+ <A>ひるね (a nap, a siesta)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>昼休み</Q>
+ <A>ひるやすみ (a lunch break)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>夜</Q>
+ <A>よる (night)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>今夜</Q>
+ <A>こんや (tonight)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>夜食</Q>
+ <A>やしょく (a midnight meal)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>晩</Q>
+ <A>ばん (night)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>晩ご飯</Q>
+ <A>ばんごはん (supper, dinner)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>今晩</Q>
+ <A>こんばん (tonight)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>夕べ</Q>
+ <A>ゆうべ (evening, last night)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>七夕</Q>
+ <A>はなばた (Star Festival)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>夕食</Q>
+ <A>ゆうしょく (supper, dinner)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>~方</Q>
+ <A>かた (how to ~)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>夕方</Q>
+ <A>ゆうがた (evening)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>~様方</Q>
+ <A>さまかた (c/o Mr.~)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>方法</Q>
+ <A>ほうほう (a method)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>午前</Q>
+ <A>ごぜん (morning, a.m)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>正午</Q>
+ <A>しょうご (high noon)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>午後</Q>
+ <A>ごご (afternoon, p.m)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>前</Q>
+ <A>まえ (before, front)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>~年前</Q>
+ <A>ねんまえ (~years before)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>前半</Q>
+ <A>ぜんはん (the first half)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>後</Q>
+ <A>あと (after, later)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>~年後</Q>
+ <A>ねんご (~years after)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>後ろ</Q>
+ <A>うしろ (behind, back)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>後半</Q>
+ <A>こうはん (the last half)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>毎日</Q>
+ <A>まいにち (every day)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>毎月</Q>
+ <A>まいげつ (every month)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>毎週</Q>
+ <A>まいしゅう (every week)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>来週</Q>
+ <A>らいしゅう (next week)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>先週</Q>
+ <A>せんしゅう (last week)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>週末</Q>
+ <A>しゅうまつ (the weekend)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>一週間</Q>
+ <A>いっしゅうかん (a week)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>月曜日</Q>
+ <A>げつようび (Monday)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>水曜日</Q>
+ <A>すいようび (Wednesday)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>火曜日</Q>
+ <A>かようび (Tuesday)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L10</cat>
+ <Q>木曜日</Q>
+ <A>もくようび (Thursday)</A>
+</item>
+
+</mnemosyne>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mnemosyne core_version="1" >
+
+<category active="1">
+ <name>500 Kanji - L7</name>
+</category>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>花</Q>
+ <A>はな (a flower)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>花瓶</Q>
+ <A>かびん (a vase)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>花火</Q>
+ <A>はなび (fireworks)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>茶</Q>
+ <A>ちゃ (meat)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>日本茶</Q>
+ <A>にほんちゃ (green tea)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>喫茶店</Q>
+ <A>きっさてん (a coffee shop)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>紅茶</Q>
+ <A>こうちゃ (black tea)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>肉</Q>
+ <A>にく (meat)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>鳥肉</Q>
+ <A>とりにく (chicken)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>牛肉</Q>
+ <A>ぎゅうにく (beef)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>肉体</Q>
+ <A>にくたい (the body)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>文</Q>
+ <A>ぶん (a sentence)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>文部省</Q>
+ <A>もんぶちょう (the Ministry of Education)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>文学</Q>
+ <A>ぶんがく (literature)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>字</Q>
+ <A>じ (a letter, a character)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>漢字</Q>
+ <A>かんじ (Kanji)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>文字</Q>
+ <A>もんじ (a letter)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>~字</Q>
+ <A>じ (...letters)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>物</Q>
+ <A>もの (a thing)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>生物</Q>
+ <A>せいぶつ (a living creature)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>買い物</Q>
+ <A>かいもの (shopping)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>荷物</Q>
+ <A>にもつ (a baggage)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>牛</Q>
+ <A>うし (catle)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>牛乳</Q>
+ <A>ぎゅうにゅう (cow's milk)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>牛肉</Q>
+ <A>ぎゅうにく (beef)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>馬</Q>
+ <A>うま (a horse)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>馬車</Q>
+ <A>ばしゃ (a carriage)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>馬力</Q>
+ <A>ばりき (horsepower)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>鳥</Q>
+ <A>とり (a bird)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>白鳥</Q>
+ <A>はくちょう (a swan)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>焼き鳥</Q>
+ <A>やきとり (grilled fish)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>野鳥</Q>
+ <A>やちょう (a wild bird)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>魚</Q>
+ <A>さかな (fish)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>魚屋</Q>
+ <A>さかなや (a fish shop)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>焼き魚</Q>
+ <A>やきざかな (grilled fish)</A>
+</item>
+
+<item id="">
+ <cat>500 Kanji - L7</cat>
+ <Q>金魚</Q>
+ <A>きんぎょ　(a gold fish)</A>
+</item>
+
+</mnemosyne>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mnemosyne core_version="1" >
+
+<category active="1">
+ <name></name>
+</category>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>行く</Q>
+ <A>いく (go)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>旅行</Q>
+ <A>りょこう (to travel)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>行う</Q>
+ <A>おこなう (to carry out)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>~行</Q>
+ <A>～行 (~ lines)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>来る</Q>
+ <A>くる (to come)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>来月</Q>
+ <A>らいげつ (next month)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>来年 (next year)</Q>
+ <A>らいねん</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>来日 (to visit Japan)</Q>
+ <A>らいにち</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>帰る</Q>
+ <A>かえる (to go/come back)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>帰国する</Q>
+ <A>きこくする (to return to one's country)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>食べる</Q>
+ <A>たべる (to eat)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>食事</Q>
+ <A>しょくじ (a meal)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>食べ物</Q>
+ <A>たべもの (food)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>夕食</Q>
+ <A>ゆうしょく (a dinner)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>飲む</Q>
+ <A>のむ (to drink)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>飲酒</Q>
+ <A>いんしゅ (drinking)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>飲み物</Q>
+ <A>のみもの (a beverage)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>見る</Q>
+ <A>みる (to look at, to see)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>見せる</Q>
+ <A>みせる (to show)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>意見</Q>
+ <A>いけん (an opinion)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>見物</Q>
+ <A>けんぶつ (to do sightseeing)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>聞く</Q>
+ <A>きく (to hear, to listen to)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>新聞</Q>
+ <A>しんぶん (a newspaper)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>聞こえる</Q>
+ <A>きこえる (can be heard)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>読む</Q>
+ <A>よむ (to read)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>読書</Q>
+ <A>どくしょ (reading books)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>読み</Q>
+ <A>よむ (reading)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>読者</Q>
+ <A>どくしゃ (a reader)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>書く</Q>
+ <A>きく (to write)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>書道</Q>
+ <A>しょどう (calligraphy)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>書店</Q>
+ <A>しょてん (a book shop)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>話す</Q>
+ <A>はなす (to speak)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>会話</Q>
+ <A>かいわ (conversation)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>話</Q>
+ <A>はなし (a story, a talk)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>電話</Q>
+ <A>でんわ (a telephone)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>買う</Q>
+ <A>かう (to buy)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>買い物</Q>
+ <A>かいもの (shopping)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>教える</Q>
+ <A>おしえる (to teach)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>教会</Q>
+ <A>きょうかい (a church)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>教育する</Q>
+ <A>きょういくする (to educate)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L9</cat>
+ <Q>教室</Q>
+ <A>きょうしつ (a classroom)</A>
+</item>
+
+</mnemosyne>
