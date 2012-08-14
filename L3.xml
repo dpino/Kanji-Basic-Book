@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mnemosyne core_version="1" >
+
+<category active="1">
+ <name></name>
+</category>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>一</Q>
+ <A>いち</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>一月</Q>
+ <A>いちがつ</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>一人</Q>
+ <A>ひとり</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>一年</Q>
+ <A>いちねん</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>二</Q>
+ <A>に</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>二月</Q>
+ <A>にがつ</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>二人</Q>
+ <A>ふたり</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>二年</Q>
+ <A>にねん</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>三つ</Q>
+ <A>みっつ</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>三月</Q>
+ <A>さんがつ</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>3日</Q>
+ <A>みっか</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>三年</Q>
+ <A>さんねん</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>四つ</Q>
+ <A>よっつ</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>四月</Q>
+ <A>しちがつ</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>4日</Q>
+ <A>よっか</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>四年</Q>
+ <A>よねん</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>五つ</Q>
+ <A>いつつ</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>五月</Q>
+ <A>ごがつ</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>5日</Q>
+ <A>いつか</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>五年</Q>
+ <A>ごねん</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>六つ</Q>
+ <A>むっつ</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>六月</Q>
+ <A>ろくがつ</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>六日</Q>
+ <A>むいか</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>六年</Q>
+ <A>ろくねん</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>七つ</Q>
+ <A>ななっつ</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>七月</Q>
+ <A>しちがつ</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>七日</Q>
+ <A>なのか</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>七年</Q>
+ <A>しちねん</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>八</Q>
+ <A>はち</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>八月</Q>
+ <A>はちがつ</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>八日</Q>
+ <A>ようか</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>八年</Q>
+ <A>はちねん</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>九つ</Q>
+ <A>ここのつ</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>九月</Q>
+ <A>くがつ</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>九日</Q>
+ <A>ここのか</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>九百</Q>
+ <A>きゅうひゃく</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>十</Q>
+ <A>とう</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>十月</Q>
+ <A>じゅうがつ</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>十日</Q>
+ <A>とうか</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>十年</Q>
+ <A>じゅうねん</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>二百</Q>
+ <A>にひゃく</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>六百</Q>
+ <A>ろっぴゃく</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>三百</Q>
+ <A>さんびゃく</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>八百</Q>
+ <A>はっぴゃく</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>千円</Q>
+ <A>せんえん</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>三千</Q>
+ <A>さんぜん</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>千葉</Q>
+ <A>ちば</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>一万円</Q>
+ <A>いちまんえん</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>万国</Q>
+ <A>ばんこく</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>円</Q>
+ <A>えん</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>五千円</Q>
+ <A>ごせんえん</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>百円</Q>
+ <A>ひゃくえん</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>年上</Q>
+ <A>としうえ</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>去年</Q>
+ <A>きょねん</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>来年</Q>
+ <A>らいねん</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q>今年</Q>
+ <A>ことし</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q></Q>
+ <A></A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q></Q>
+ <A></A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q></Q>
+ <A></A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q></Q>
+ <A></A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q></Q>
+ <A></A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q></Q>
+ <A></A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L3</cat>
+ <Q></Q>
+ <A></A>
+</item>
+
+</mnemosyne>
