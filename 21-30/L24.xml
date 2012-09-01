@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mnemosyne core_version="1" >
+
+<category active="1">
+ <name></name>
+</category>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>起きる</Q>
+ <A>おきる (to get up, to rise)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>起こす</Q>
+ <A>おこす (to cause, to wake someone up)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>起こる</Q>
+ <A>おこる (to happen, to occur)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>寝る</Q>
+ <A>ねる (to sleep)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>寝室</Q>
+ <A>しんしつ (a bedroom)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>寝台車</Q>
+ <A>しんだいしゃ (a sleeping car)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>遊ぶ</Q>
+ <A>あそぶ (to play)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>湯園地</Q>
+ <A>ゆうえんち (an amusement park)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>遊び</Q>
+ <A>あそび (play, recreation)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>立つ</Q>
+ <A>たつ (to stand)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>国立</Q>
+ <A>こくりつ (national)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>立場</Q>
+ <A>たちば (a standpoint)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>私立</Q>
+ <A>しりつ (private)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>座る</Q>
+ <A>すわる (to sit)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>正座</Q>
+ <A>せいざ (to sit up straight)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>座席</Q>
+ <A>ざせき (a seat)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>使う</Q>
+ <A>つかう (to use, to employ)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>使用する</Q>
+ <A>しようする (to use)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>大使</Q>
+ <A>たいし (an ambassador)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>使い方</Q>
+ <A>つかいかた (way of using)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>始まる</Q>
+ <A>はじまる (to start)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>始める</Q>
+ <A>はじめる (to start something)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>開始する</Q>
+ <A>かいしする (to begin)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>終わる</Q>
+ <A>おわる (to end)</A> 
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>終える</Q>
+ <A>おえる (to finish something)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>終電</Q>
+ <A>しゅうでん (the last train)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>終点</Q>
+ <A>しゅうてん (the terminus)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>貸す</Q>
+ <A>かす (to lend, to rent)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>貸出</Q>
+ <A>かしだし (loaning out)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>借りる</Q>
+ <A>かりる (to borrow)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>借金</Q>
+ <A>しゃっきん (a debt)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>借用書</Q>
+ <A>しゃくようしょ (an IOU)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>買えす</Q>
+ <A>かえす (to return)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>返事</Q>
+ <A>へんじ (an answer)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>返信する</Q>
+ <A>へんしんする (to reply (a letter))</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>送る</Q>
+ <A>おくる (to send)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>見送る</Q>
+ <A>みおくる (to send off)</A> 
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>送別会</Q>
+ <A>そうべつかい (a farewell party)</A>
+</item>
+
+<item id="">
+ <cat>Basic Kanji Book - L24</cat>
+ <Q>送料</Q>
+ <A>そうりょう (postage)</A>
+</item>
+
+</mnemosyne>
